@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("My Discord Rayzer#7642", "BloodTheme")
+local Window = Library.CreateLib("My Discord Jucky#0000", "BloodTheme")
 local Tab = Window:NewTab("Auto Protein Shake")
 local EatSection = Tab:NewSection("Auto Protein Shake")
 
